@@ -8,4 +8,4 @@ Transaction class in Taraxa is compatible to Ethereum transaction. RLP serializa
 
 Transaction flow is displayed in the flow chart which references classes and functions within Taraxa Node codebase:
 
-![Transaction flow chart](.gitbook/assets/transaction.jpg)
+![Transaction flow chart](transaction.jpg)

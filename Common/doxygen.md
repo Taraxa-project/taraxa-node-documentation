@@ -1,7 +1,5 @@
 # Doxygen documentation 
 
-Doxygen is the tool for generating documentation from annotated C++ sources. It can generate an on-line documentation browser (in HTML). The documentation is extracted directly from the sources, which makes it much easier to keep the documentation consistent with the source code.
-
 ## [Our generated documentation](https://taraxa-project.github.io/taraxa-node/)
 
 ## Installing dependencies 

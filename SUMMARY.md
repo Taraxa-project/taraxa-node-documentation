@@ -19,6 +19,7 @@
 ## Components description
 
 * [PBFT](PBFT/README.md)
+* [VOTE](VOTE/README.md)
 * [DAG](DAG/README.md)
 * [Transaction](Transaction/README.md)
 * [Network](Network/README.md)

@@ -22,29 +22,17 @@ Script for Local Net running is available in repository. After project built you
 
 Taraxa Node RPC mostly compatible with Ethereum RPC. But it also has differences and some new specific method. [Detailed description](RPC/README.md). 
 
-## Transaction 
+## [Transaction](Transaction/README.md)
 
-* [Transaction](Transaction/README.md)
+## [DAG](DAG/README.md)
 
-## DAG
+## [PBFT](PBFT/README.md)
 
-* [DAG](DAG/README.md)
+## [Network](Network/README.md)
 
-## PBFT
+## [Final Chain](FinalChain/README.md)
 
-* [PBFT](PBFT/README.md)
-
-## Network
-
-* [Network](Network/README.md)
-
-## Final Chain
-
-* [Final Chain](FinalChain/README.md)
-
-## DPOS Contract
-
-* [DPOS Contract](DPOS/README.md)
+## [DPOS Contract](DPOS/README.md)
 
 ## Doxygen
 

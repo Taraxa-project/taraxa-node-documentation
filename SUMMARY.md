@@ -3,7 +3,6 @@
 * [Welcome!](README.md)
 
 ## Whitepaper
-
 * [Abstract](https://docs.taraxa.io/tech-whitepaper/abstract)
 * [Intro: Scaling the world](https://docs.taraxa.io/tech-whitepaper/introduction)
 * [Taraxa architecture](https://docs.taraxa.io/tech-whitepaper/taraxa-architecture)

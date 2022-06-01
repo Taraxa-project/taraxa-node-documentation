@@ -28,6 +28,8 @@ Taraxa Node RPC mostly compatible with Ethereum RPC. But it also has differences
 
 ## [PBFT](PBFT/README.md)
 
+## [VOTE](VOTE/README.md)
+
 ## [Network](Network/README.md)
 
 ## [Final Chain](FinalChain/README.md)

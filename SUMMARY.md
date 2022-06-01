@@ -3,7 +3,6 @@
 * [Welcome!](README.md)
 
 ## Whitepaper
-
 * [Abstract](https://docs.taraxa.io/tech-whitepaper/abstract)
 * [Intro: Scaling the world](https://docs.taraxa.io/tech-whitepaper/introduction)
 * [Taraxa architecture](https://docs.taraxa.io/tech-whitepaper/taraxa-architecture)
@@ -20,6 +19,7 @@
 ## Components description
 
 * [PBFT](PBFT/README.md)
+* [VOTE](VOTE/README.md)
 * [DAG](DAG/README.md)
 * [Transaction](Transaction/README.md)
 * [Network](Network/README.md)

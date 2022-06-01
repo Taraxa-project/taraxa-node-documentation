@@ -1,3 +1,7 @@
+---
+description: Reward distribution
+---
+
 # DPOS contract
 
 ## Problem:

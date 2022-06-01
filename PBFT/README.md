@@ -18,7 +18,7 @@ PBFT timing: All players keep a timer clock. The timer clock will reset to 0 at 
 
 ## General flow 
 
-![General flow diagram](general_flow.png)
+![General flow diagram](general.png)
 
 ## PBFT Manager
 

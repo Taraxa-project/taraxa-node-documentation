@@ -50,4 +50,4 @@ Node could send previous PBFT round next voting type votes to help peers catch u
 
 Link to Doxygen generated docs with methods list. [NextVotesManager class](https://taraxa-project.github.io/taraxa-node/group___vote.html#classtaraxa_1_1_next_votes_manager)
 
-![Syncing Next Votes](syncing_next_votes.png)
+![Syncing Next Votes](next_votes_syncing.png)

@@ -40,6 +40,8 @@ VoteManager class manage votes for PBFT consensus.
 
 Link to Doxygen generated docs with methods list. [VoteManager class](https://taraxa-project.github.io/taraxa-node/group___vote.html#classtaraxa_1_1_vote_manager)
 
+![Votes](votes.png)
+
 ## Next-Votes Manager
 
 NextVotesManager class manage next voting type votes for previous PBFT round.
@@ -47,3 +49,5 @@ NextVotesManager class manage next voting type votes for previous PBFT round.
 Node could send previous PBFT round next voting type votes to help peers catch up to the current PBFT round. Also, node could receive enough next voting type votes from peers, to help node itself catch up to the correct PBFT round in consensus.
 
 Link to Doxygen generated docs with methods list. [NextVotesManager class](https://taraxa-project.github.io/taraxa-node/group___vote.html#classtaraxa_1_1_next_votes_manager)
+
+![Syncing Next Votes](syncing_next_votes.png)
